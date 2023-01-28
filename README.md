@@ -16,7 +16,7 @@ The repository has been created for educational purposes only.
 1. Copy the repository to your local machine:
     * `git clone https://github.com/{{ username }}/Serverless-Telegram-Bot.git`
 2. Go to the project directory:
-    * `Serverless-Telegram-Bot`
+    * `cd Serverless-Telegram-Bot`
 3. Create a virtual environment
     * `python3 -m venv venv`
 4. Activation of the virtual environment:
