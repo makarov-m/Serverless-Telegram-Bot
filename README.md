@@ -25,7 +25,7 @@ The repository has been created for educational purposes only.
     * `pip install --upgrade pip`
 7. Install requirements
     * `pip install -r requirements.txt`
-8. Then you will need to create your bot with BotFather. I found [this link](https://medium.com/@zarakhovych.alexander/create-a-telegram-bot-through-botfather-885b3faf8658) usefull.
-9. After that it is nessasary to set up AWS Environment for your bot. Detailed description is provided [here](https://levelup.gitconnected.com/simple-telegram-bot-with-python-and-aws-lambda-5eab1066b466).
-10. When AWS environment is ready we can upload our packege. I used option with [zip file upload](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-package.html). 
-10. Last but not least step in our list is to [create a webhook](https://youtu.be/oYMgw4M4cD0) for our bot. 
+8. Then you will need to create your bot with BotFather. I found [this link](https://medium.com/@zarakhovych.alexander/create-a-telegram-bot-through-botfather-885b3faf8658) useful.
+9. After that, it is necessary to set up AWS Environment for your bot. A detailed description is provided [here](https://levelup.gitconnected.com/simple-telegram-bot-with-python-and-aws-lambda-5eab1066b466).
+10. When AWS environment is ready we can upload our package. I used the option with [zip file upload](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-package.html). 
+10. The last but not least step on our list is to [create a webhook](https://youtu.be/oYMgw4M4cD0) for our bot. 
